@@ -1,0 +1,21 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "relative.linux_open_url_fix",
+	"name": "Linux Open URL Fix",
+	"version": "v1.0.0",
+	"developer": "Relative",
+	"description": "",
+	"dependencies": [
+		{
+			"id": "relative.linuxapi",
+			"importance": "required",
+			"version": ">=v0.0.1"
+		}
+	]
+}
